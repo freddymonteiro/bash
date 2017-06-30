@@ -1,4 +1,8 @@
 #!/bin/bash
+##Freddy Monteiro (monteiro.freddy@gmail.com // monteiro.freddy@unc.edu)
+##Dangl Lab. University of North Carolina at Chapel Hill. 
+##Under development. Not final. For internal use only.
+
 ##BASIC STATS
 ##Outputs "nlrs.stats" file with number of NLR isoforms, genes and CC-, TIR-, NB-ARC-containing NLR genes. Also uses Relict, Magic and Other collections to sort output by collection in "nlrs_ordered.stats" files
 #Prepare header of output files

@@ -2,6 +2,7 @@
 ##Freddy Monteiro (monteiro.freddy@gmail.com // monteiro.freddy@unc.edu)
 ##Dangl Lab. University of North Carolina at Chapel Hill. 
 ##Under development. Not final. For internal use only.
+
 ##Identify NLR genes (TIR-, or NB-ARC-, or RPW8-containing)
 ##The most important outputs are "toverify-sorted*", which contain the interpro output for the identified NLRs
 for ipout in *.proteins.fasta.tsv
